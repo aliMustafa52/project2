@@ -1,0 +1,35 @@
+.container {
+  margin: 0 auto;
+  width: 1000px;
+  height: 3000px;
+  background-color: #a0e4cb;
+}
+
+input[type="number"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.btn {
+  height: 200px;
+  margin: 0 370px;
+  width: 200px;
+  text-align: center;
+  font-size: 40px;
+  color: #0d4c92;
+  background-color: #cff5e7;
+  border: #59c1bd 2px solid;
+  border-radius: 15px;
+}
+.show {
+  font-size: 40px;
+  margin-left: 20px;
+}
+
+.image {
+  visibility: hidden;
+  height: 800px;
+  width: 800px;
+  border: #0d4c92 2px solid;
+}
